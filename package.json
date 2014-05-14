@@ -28,7 +28,7 @@
     }
   ],
   "dependencies": {
-    "amqp": "0.2.0",
+    "amqp": "https://github.com/jessefulton/node-amqp/tarball/master",
     "node-uuid": "*",
     "debug": "~0.7.2"
   },
